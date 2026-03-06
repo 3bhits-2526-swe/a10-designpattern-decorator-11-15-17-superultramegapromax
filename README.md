@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZXq9zVzz)
 # Decorator Pattern – Bewegtes Objekt erweitern
-# URL AUCH REINTUN VON UNSEREM PROJEKT
+# UML AUCH REINTUN VON UNSEREM PROJEKT
 ## Ausgangssituation
 
 In der Szene bewegt sich ein Objekt zwischen **Punkt A** und **Punkt B** hin und her.
