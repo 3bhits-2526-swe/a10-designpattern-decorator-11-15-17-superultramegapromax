@@ -14,7 +14,7 @@ public class ConnectPointsLine : MonoBehaviour
         lineRenderer.positionCount = 2;
     }
 
-    private void Update()
+    private void Start()
     {
         if (pointA == null || pointB == null) return;
 
